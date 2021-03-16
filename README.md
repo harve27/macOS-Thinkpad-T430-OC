@@ -15,7 +15,7 @@ Made with OC 0.6.5
 
 # Not working:
 - Sleep (unsure - needs to be tested more)
-- Battery Readout 
+- Battery Readout (currently using physical battery indicator on T430)
 - Bluetooth (unusure, not present on this T430)
 - Airdrop
 
