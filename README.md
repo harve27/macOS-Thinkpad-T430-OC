@@ -4,14 +4,16 @@ Made with OC 0.6.5
 - Remember to generate SMBIOS values! See https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/ivy-bridge.html#starting-point for full info.
 
 # Working:
-- wifi 
+- wifi/ethernet
 - power on/off
 - USB (all 4!)
 - iServices
 - Audio (through replacing AppleALC.kext with VoodooHDA.kext in post-install)
 - Microphone (on/off button not working -- replacing AppleALC.kext with VoodooHDA.kext)
-- Mouse (working OK, scrolling function only on Firefox for trackpoint)
+- Mouse (working OK, scrolling function only on Firefox for trackpoint. Disabling trackpad in BIOS makes trackpoint better.)
 - App Store 
+- Brightness (semi-working with QuickShade app)
+- Webcam
 
 # Not working:
 - Sleep (unsure - needs to be tested more)
